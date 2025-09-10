@@ -5,3 +5,6 @@
 </ul>
 
 Para ejecutar el sistema debes ingresar el comando:```npm install react```
+
+Actualización del sistema de registro 
+
